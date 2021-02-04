@@ -31,7 +31,6 @@
   },
   "build": {
     "productName": "StockerElectron",
-    "appId": "com.stumackenzie",
     "files": [
       "dist/",
       "node_modules/",
@@ -281,5 +280,5 @@
       "pre-commit": "lint-staged"
     }
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
